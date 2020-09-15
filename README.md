@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bosl95&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosl95&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bosl95&repo=Algorithm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bosl95&repo=Algorithm&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
