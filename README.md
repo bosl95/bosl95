@@ -4,7 +4,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bosl95&repo=Algorithm&theme=radical)](https://github.com/bosl95/Algorithm)
 <br>
 
-### :fire: Compare Yourself to Who You Were Yesterday :fire:
+## :fire: *Compare Yourself to Who You Were Yesterday* :fire:
 
 <br>
 
