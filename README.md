@@ -1,7 +1,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bosl95&theme=radical)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bosl95&repo=Algorithm&theme=radical)](https://github.com/bosl95/Algorithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Develope-my-tech&repo=Android&theme=radical)](https://github.com/Develope-my-tech)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bosl95&repo=Algorithm&theme=radical)](https://github.com/bosl95/Algorithm) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Develope-my-tech&repo=Android&theme=radical)](https://github.com/Develope-my-tech/Android)
 <br>
 
 ## :fire: *Compare Yourself to Who You Were Yesterday* :fire:
