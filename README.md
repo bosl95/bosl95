@@ -1,8 +1,6 @@
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bosl95&theme=buefy)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bosl95&repo=Algorithm&theme=buefy )](https://github.com/bosl95/Algorithm) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Develope-my-tech&repo=Python-Basic&theme=buefy)](https://github.com/Develope-my-tech/Python-Basic)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bosl95&theme=buefy)<br
 
 <br>
 
