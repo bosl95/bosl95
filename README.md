@@ -1,6 +1,6 @@
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bosl95&theme=buefy)<br
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bosl95&theme=buefy)<br>
 
 <br>
 
