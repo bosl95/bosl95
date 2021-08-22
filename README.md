@@ -3,6 +3,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bosl95&theme=buefy)<br>
 
 <br>
+  
+![c102cefcee683173508c5fee9f6869c9f43ad912ad8dd55b04db6a64cddaf76d](https://user-images.githubusercontent.com/34594339/130363095-a0cbb8a1-5e11-4b7e-8ce5-3293eb308666.gif)
+
 
 ## :fire: *Compare Yourself to Who You Were Yesterday* :fire:
 
