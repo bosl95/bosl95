@@ -4,7 +4,7 @@
 
 <br>
 
-## :fire: *Compare Yourself to Who You Were Yesterday* :fire:
+## :fire::fire: *Compare Yourself to Who You Were Yesterday* :fire::fire:
 
 <br>
 
